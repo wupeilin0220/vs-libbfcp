@@ -1,0 +1,15 @@
+﻿  bfcp_participant.c
+f:\hxdt\sip项目\sip_libsipsignaling\libbfcp\libbfcpclt\bfcp_participant.c(119): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+f:\hxdt\sip项目\sip_libsipsignaling\libbfcp\libbfcpclt\bfcp_participant.c(191): warning C4047: “=”:“HANDLE”与“int”的间接级别不同
+f:\hxdt\sip项目\sip_libsipsignaling\libbfcp\libbfcpclt\bfcp_participant.c(371): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\hxdt\sip项目\sip_libsipsignaling\libbfcp\libbfcpclt\bfcp_participant.c(652): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\hxdt\sip项目\sip_libsipsignaling\libbfcp\libbfcpclt\bfcp_participant.c(695): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\hxdt\sip项目\sip_libsipsignaling\libbfcp\libbfcpclt\bfcp_participant.c(710): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\hxdt\sip项目\sip_libsipsignaling\libbfcp\libbfcpclt\bfcp_participant.c(728): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+    正在创建库 F:\hxdt\SIP项目\sip_libsipsignaling\libBFCP\libBFCPClt\\Bin\Win64\Release\libBFCPClt.lib 和对象 F:\hxdt\SIP项目\sip_libsipsignaling\libBFCP\libBFCPClt\\Bin\Win64\Release\libBFCPClt.exp
+  正在生成代码
+  19 of 20 functions (95.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  libBFCPClt.vcxproj -> F:\hxdt\SIP项目\sip_libsipsignaling\libBFCP\libBFCPClt\\Bin\Win64\Release\libBFCPClt.dll

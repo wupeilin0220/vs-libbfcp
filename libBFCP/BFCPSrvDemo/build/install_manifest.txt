@@ -1,0 +1,1 @@
+/home/wupl/vs-libbfcp/libBFCP/BFCPSrvDemo/Bin/arm64/bfcp_server

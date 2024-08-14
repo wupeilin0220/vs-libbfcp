@@ -1,0 +1,18 @@
+﻿  bfcp_messages.c
+  bfcp_messages_build.c
+f:\hxdt\sip项目\sip_libsipsignaling\libbfcp\libbfcpmsg\bfcp_messages_build.c(437): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\hxdt\sip项目\sip_libsipsignaling\libbfcp\libbfcpmsg\bfcp_messages_build.c(459): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\hxdt\sip项目\sip_libsipsignaling\libbfcp\libbfcpmsg\bfcp_messages_build.c(481): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\hxdt\sip项目\sip_libsipsignaling\libbfcp\libbfcpmsg\bfcp_messages_build.c(557): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\hxdt\sip项目\sip_libsipsignaling\libbfcp\libbfcpmsg\bfcp_messages_build.c(579): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\hxdt\sip项目\sip_libsipsignaling\libbfcp\libbfcpmsg\bfcp_messages_build.c(835): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  bfcp_messages_parse.c
+f:\hxdt\sip项目\sip_libsipsignaling\libbfcp\libbfcpmsg\bfcp_messages_parse.c(49): warning C4244: “函数”: 从“unsigned long”转换到“u_short”，可能丢失数据
+f:\hxdt\sip项目\sip_libsipsignaling\libbfcp\libbfcpmsg\bfcp_messages_parse.c(61): warning C4244: “函数”: 从“unsigned long”转换到“u_short”，可能丢失数据
+    正在创建库 F:\hxdt\SIP项目\sip_libsipsignaling\libBFCP\libBFCPMsg\\Bin\Win64\Release\libBFCPMsg.lib 和对象 F:\hxdt\SIP项目\sip_libsipsignaling\libBFCP\libBFCPMsg\\Bin\Win64\Release\libBFCPMsg.exp
+  正在生成代码
+  103 of 103 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  libBFCPMsg.vcxproj -> F:\hxdt\SIP项目\sip_libsipsignaling\libBFCP\libBFCPMsg\\Bin\Win64\Release\libBFCPMsg.dll

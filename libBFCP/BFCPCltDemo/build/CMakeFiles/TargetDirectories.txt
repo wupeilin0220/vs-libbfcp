@@ -1,0 +1,8 @@
+/home/wupl/vs-libbfcp/libBFCP/BFCPCltDemo/build/CMakeFiles/bfcp_participant.dir
+/home/wupl/vs-libbfcp/libBFCP/BFCPCltDemo/build/CMakeFiles/clean-all.dir
+/home/wupl/vs-libbfcp/libBFCP/BFCPCltDemo/build/CMakeFiles/edit_cache.dir
+/home/wupl/vs-libbfcp/libBFCP/BFCPCltDemo/build/CMakeFiles/rebuild_cache.dir
+/home/wupl/vs-libbfcp/libBFCP/BFCPCltDemo/build/CMakeFiles/list_install_components.dir
+/home/wupl/vs-libbfcp/libBFCP/BFCPCltDemo/build/CMakeFiles/install.dir
+/home/wupl/vs-libbfcp/libBFCP/BFCPCltDemo/build/CMakeFiles/install/local.dir
+/home/wupl/vs-libbfcp/libBFCP/BFCPCltDemo/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,1 @@
+gcc  -fPIC    -shared -Wl,-soname,libbfcpmsg.so.0 -o ../Bin/x86_64/libbfcpmsg.so.0.0.7 CMakeFiles/bfcpmsg.dir/bfcp_messages.c.o CMakeFiles/bfcpmsg.dir/bfcp_messages_build.c.o CMakeFiles/bfcpmsg.dir/bfcp_messages_parse.c.o 
